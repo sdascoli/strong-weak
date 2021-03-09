@@ -1,6 +1,6 @@
-# Appendices and code for the paper "More data or more parameters? Investigating the role of data structure on generalization"
+# More data or more parameters? Investigating the role of data structure on generalization"
 
-This folder contains the SM as well as the codes to reproduce the experiments presented in the paper.
+This folder contains the SM as well as the codes to reproduce the experiments presented in the paper "More data or more parameters? Investigating the role of data structure on generalization", by Stéphane d'Ascoli, Marylou Gabrié, Levent Sagun and Giulio Biroli.
 
 ## Random features
 
